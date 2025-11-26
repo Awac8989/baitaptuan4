@@ -1,16 +1,32 @@
-# bttuan4
+# Bài Tập Tuần 4 - Flutter Exercises
 
-A new Flutter project.
+Dự án Flutter chứa 5 bài tập toàn diện về các khái niệm Flutter và Dart với giao diện tiếng Việt.
 
-## Getting Started
+## 📱 Các Bài Tập
 
-This project is a starting point for a Flutter application.
+1. **List View Exercise** - Danh sách cuộn với avatar
+2. **Grid View Exercise** - Lưới với GridView.count() và GridView.extent()  
+3. **SharedPreferences Exercise** - Lưu trữ dữ liệu cục bộ
+4. **Async Programming Exercise** - Lập trình bất đồng bộ
+5. **Isolate Exercises** - Tính toán nặng với isolate
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Cách Chạy
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📖 Tài Liệu
+
+- [Hướng dẫn chi tiết tiếng Việt](BAI_TAP_TIENG_VIET.md)
+- [English documentation](EXERCISES_README.md)
+
+## 🎯 Tính Năng
+
+- ✅ Giao diện hoàn toàn tiếng Việt
+- ✅ 5 bài tập tương tác
+- ✅ Hỗ trợ đa nền tảng (Windows, Android, Web)
+- ✅ Material Design 3
+
+Một dự án Flutter khởi đầu cho việc học các khái niệm cơ bản đến nâng cao.
